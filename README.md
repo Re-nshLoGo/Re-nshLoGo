@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qAH9MsFJT5SVq9Jo7t40TMepX-3utEU-/edit)
 
+### Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/reena-kahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reena-kahar" height="30" width="40" /></a>
 <a href="mailto:reenabadera8999@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/35/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
