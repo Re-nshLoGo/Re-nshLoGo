@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=re-nshlogo&label=Profile%20views&color=0e75b6&style=flat" alt="re-nshlogo" /> </p>
 
-- 🔭 Developed a Spring Boot project of [Blog API Application](https://github.com/Re-nshLoGo/BlogApi)
+- 🔭 Developed a Spring Boot project for [Blog API Application](https://github.com/Re-nshLoGo/BlogApi)
 
 - 🌱 I’m currently learning **Frontend Development.**
 
