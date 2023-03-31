@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reena Kahar</h1>
 <h3 align="center">A Backend Developer with a Bachelor's degree in Computer Engineering and expertise in Java, Spring Boot, Rest APIs, MySql, and Object-Oriented Programming. I'm passionate about building scalable and robust web applications that can handle large amounts of data and traffic. In my free time, I enjoy exploring new technologies and contributing to open source projects.</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=re-nshlogo&label=Profile%20views&color=0e75b6&style=flat" alt="re-nshlogo" /> </p>
 
