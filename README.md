@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **reenabadera8999@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qAH9MsFJT5SVq9Jo7t40TMepX-3utEU-/edit](https://docs.google.com/document/d/1qAH9MsFJT5SVq9Jo7t40TMepX-3utEU-/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qAH9MsFJT5SVq9Jo7t40TMepX-3utEU-/edit)
 
 <p align="left">
 <a href="https://linkedin.com/in/reena-kahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reena-kahar" height="30" width="40" /></a>
