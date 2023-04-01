@@ -1,4 +1,6 @@
-![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--PHvvmnw8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91ovedmu4grqhjh434rq.png)
+<img align="center" alt="logo"  src="https://i.gifer.com/1kc1.gif">
+<!-- ![logo](https://i.gifer.com/8JIk.gif) -->
+<!-- ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--PHvvmnw8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91ovedmu4grqhjh434rq.png) -->
 <h1 align="center">Hi 👋, I'm Reena Kahar</h1>
 <h3 align="center">A Backend Developer with a Bachelor's degree in Computer Engineering and expertise in Java, Spring Boot, Rest APIs, MySql, and Object-Oriented Programming. I'm passionate about building scalable and robust web applications that can handle large amounts of data and traffic. In my free time, I enjoy exploring new technologies and contributing to open source projects.</h3>
 
