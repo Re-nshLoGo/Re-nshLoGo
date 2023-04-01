@@ -1,4 +1,6 @@
-<h1 align="center"><img width="1000" height="250" alt="gif" src="https://38.media.tumblr.com/6e10a0dedbbfd22ff4beb131528b4b7f/tumblr_n76l5amzw91r70f17o1_500.gif"></h1>
+<h1 align="center"><img width="600" height="250" alt="gif" src="https://media4.giphy.com/media/BB1tTE0H8uNVPzfJc3/giphy.gif?cid=ecf05e47y2pmsw8xmkm7bghgn2khwmubghr9ic51prdccx1x&rid=giphy.gif&ct=g"></h1>
+
+<!-- <h1 align="center"><img width="1000" height="250" alt="gif" src="https://38.media.tumblr.com/6e10a0dedbbfd22ff4beb131528b4b7f/tumblr_n76l5amzw91r70f17o1_500.gif"></h1> -->
 <h3 align="center"> <img alt="gif" height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"> Hi 👋, I'm Reena Kahar
 <img alt="gif" height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif">
 </h3>
