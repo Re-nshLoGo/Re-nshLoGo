@@ -1,4 +1,5 @@
-<img align="center" alt="logo"  src="https://i.gifer.com/1kc1.gif">
+<h1 align="center"><img alt="gif" src="https://i.gifer.com/1kc1.gif"></h1>
+<!-- <p align="center"><img alt="logo" src="https://i.gifer.com/1kc1.gif"></p> -->
 <!-- ![logo](https://i.gifer.com/8JIk.gif) -->
 <!-- ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--PHvvmnw8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91ovedmu4grqhjh434rq.png) -->
 <h1 align="center">Hi 👋, I'm Reena Kahar</h1>
