@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **reenabadera8999@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qAH9MsFJT5SVq9Jo7t40TMepX-3utEU-/edit)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mXjLYLzkSuxa9gwR_Ci7RgVN1F62UvN7/view?usp=sharing)
 
 ### Connect with me:
 
